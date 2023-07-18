@@ -1,0 +1,3 @@
+*.thy~
+*.thy#
+output/
